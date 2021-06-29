@@ -1,0 +1,30 @@
+KB Odchozí platba
+
+
+Částka: 20 750,00 CZK Vážená paní, Vážený pane, 
+
+provedli jsme platbu z účtu 123-123456789/0100 na účet 123456789/6000. Informace o platbě Částka a měna: 20 750,00 CZK Číslo vašeho účtu: 123-123456789/0100 Číslo protiúčtu: 123456789/9999 Jméno protiúčtu: Testovací protiúčet Datum splatnosti: 23.06.2021 Stav platby: Zaúčtováno Variabilní symbol: 987654321 Konstantní symbol: 0 Specifický symbol: 2 Zpráva pro příjemce: Testovací zpráva pro příjemce V případě nejasností nás můžete kontaktovat na klientské lince přímého bankovnictví955 551 552. 
+
+S přáním hezkého dne 
+
+Vaše Komerční banka Outgoing payment
+
+---
+RESULT:
+
+{
+  "typ": "KB Odchozí platba",
+  "castka": -20750,
+  "ucet": "123-123456789/0100",
+  "protiucet": "123456789/9999",
+  "jmenoProtiuctu": "Testovací protiúčet",
+  "datum": "23.06.2021",
+  "vs": "987654321",
+  "ks": "0",
+  "ss": "2",
+  "zprava": "Testovací zpráva pro příjemce",
+  "cisloUctu": "123-123456789",
+  "kodBanky": "0100",
+  "cisloProtiuctu": "123456789",
+  "kodBankyProtiuctu": "9999"
+}

@@ -1,0 +1,30 @@
+KB Příchozí platba
+
+
+Částka: 10,00 CZK Vážená paní, Vážený pane, 
+
+platbu z účtu 123456789/9999 jsme připsali na účet 123-123456789/0100. Informace o platbě Částka a měna: 10,00 CZK Číslo vašeho účtu: 123-123456789/0100 Číslo protiúčtu: 123456789/9999 Jméno protiúčtu: Testovací protiúčet Datum splatnosti: 21.06.2021 Stav platby: Zaúčtováno Variabilní symbol: 0 Konstantní symbol: 0 Specifický symbol: 0 Zpráva pro příjemce: Testovací zpráva pro příjemce V případě nejasností nás můžete kontaktovat na klientské lince přímého bankovnictví955 551 552. 
+
+S přáním hezkého dne 
+
+Vaše Komerční banka Incoming payment
+
+---
+RESULT:
+
+{
+  "typ": "KB Příchozí platba",
+  "castka": 10,
+  "ucet": "123-123456789/0100",
+  "protiucet": "123456789/9999",
+  "jmenoProtiuctu": "Testovací protiúčet",
+  "datum": "21.06.2021",
+  "vs": "0",
+  "ks": "0",
+  "ss": "0",
+  "zprava": "Testovací zpráva pro příjemce",
+  "cisloUctu": "123-123456789",
+  "kodBanky": "0100",
+  "cisloProtiuctu": "123456789",
+  "kodBankyProtiuctu": "9999"
+}
